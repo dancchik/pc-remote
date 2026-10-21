@@ -1,0 +1,31 @@
+# Secrets (keys, tokens)
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Android / Flutter / Gradle build output
+build/
+.gradle/
+.dart_tool/
+local.properties
+*.apk
+*.aab
+*.jks
+*.keystore
+
+# Logs and local data
+logs/
+*.log
+*.db
+*.sqlite3
+
+# Editor / OS
+.vscode/
+.idea/
+Thumbs.db
+
+# Local notes
+CLAUDE.md
